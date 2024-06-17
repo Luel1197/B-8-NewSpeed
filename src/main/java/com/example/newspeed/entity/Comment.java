@@ -1,14 +1,14 @@
 package com.example.newspeed.entity;
 
 
-import com.example.newspeed.dto.ContentDto;
+
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 import java.util.ArrayList;
 import java.util.List;
+import lombok.Setter;
 
 @Entity
 @Getter

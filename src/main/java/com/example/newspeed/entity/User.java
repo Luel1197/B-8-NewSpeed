@@ -49,6 +49,9 @@ public class User extends Timestamped {
         this.email = email;
         this.intro = intro;
     }
+
+
+
     public void update(String name, String intro) {
         this.userName = name;
         this.intro = intro;
